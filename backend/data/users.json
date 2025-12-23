@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usr_000001",
+    "email": "admin@local",
+    "password": "admin",
+    "role": "admin",
+    "banned": false,
+    "createdAt": "2025-12-23T00:00:00.000Z"
+  },
+  {
+    "id": "usr_000003",
+    "email": "buyer@local",
+    "password": "buyer",
+    "role": "buyer",
+    "banned": false,
+    "createdAt": "2025-12-23T00:00:00.000Z"
+  },
+  {
+    "id": "usr_000002",
+    "email": "seller@local",
+    "password": "seller",
+    "role": "seller",
+    "banned": false,
+    "createdAt": "2025-12-23T00:00:00.000Z"
+  }
+]

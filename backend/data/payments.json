@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pay_000001",
+    "orderId": "ord_000001",
+    "provider": "mock",
+    "status": "succeeded",
+    "createdAt": "2025-12-22T22:16:44.484Z",
+    "confirmedAt": "2025-12-22T22:17:33.031Z"
+  },
+  {
+    "id": "pay_000002",
+    "orderId": "ord_000002",
+    "provider": "mock",
+    "status": "succeeded",
+    "createdAt": "2025-12-22T22:46:46.168Z",
+    "confirmedAt": "2025-12-22T22:46:46.206Z"
+  },
+  {
+    "id": "pay_000003",
+    "orderId": "ord_000003",
+    "provider": "mock",
+    "status": "succeeded",
+    "createdAt": "2025-12-22T23:45:42.664Z",
+    "confirmedAt": "2025-12-22T23:45:42.736Z"
+  },
+  {
+    "id": "pay_000004",
+    "orderId": "ord_000004",
+    "provider": "mock",
+    "status": "succeeded",
+    "createdAt": "2025-12-23T00:39:56.796Z",
+    "confirmedAt": "2025-12-23T00:39:56.883Z"
+  },
+  {
+    "id": "pay_000005",
+    "orderId": "ord_000005",
+    "provider": "mock",
+    "status": "succeeded",
+    "createdAt": "2025-12-23T01:33:22.571Z",
+    "confirmedAt": "2025-12-23T01:33:22.612Z"
+  }
+]

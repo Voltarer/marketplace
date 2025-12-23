@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sku_000001",
+    "productId": "prd_000001",
+    "variant": "Black",
+    "price": 4990,
+    "stock": 12
+  },
+  {
+    "id": "sku_000002",
+    "productId": "prd_000001",
+    "variant": "White",
+    "price": 4990,
+    "stock": 7
+  },
+  {
+    "id": "sku_000003",
+    "productId": "prd_000002",
+    "variant": "M/White",
+    "price": 1290,
+    "stock": 25
+  },
+  {
+    "id": "sku_000004",
+    "productId": "prd_000003",
+    "variant": "256GB/Black",
+    "price": 89990,
+    "stock": 8
+  },
+  {
+    "id": "sku_000005",
+    "productId": "prd_000003",
+    "variant": "512GB/Blue",
+    "price": 104990,
+    "stock": 4
+  },
+  {
+    "id": "sku_000008",
+    "productId": "prd_000005",
+    "variant": "Мягкая обложка",
+    "price": 890,
+    "stock": 50
+  },
+  {
+    "id": "sku_000009",
+    "productId": "prd_000005",
+    "variant": "Твердая обложка",
+    "price": 1290,
+    "stock": 25
+  },
+  {
+    "id": "sku_000012",
+    "productId": "prd_000007",
+    "variant": "12 предметов",
+    "price": 2190,
+    "stock": 30
+  },
+  {
+    "id": "sku_000013",
+    "productId": "prd_000007",
+    "variant": "24 предмета",
+    "price": 3890,
+    "stock": 16
+  },
+  {
+    "id": "sku_000016",
+    "productId": "prd_000009",
+    "variant": "Black",
+    "price": 34990,
+    "stock": 11
+  },
+  {
+    "id": "sku_000017",
+    "productId": "prd_000009",
+    "variant": "Silver",
+    "price": 37990,
+    "stock": 7
+  },
+  {
+    "id": "sku_000020",
+    "productId": "prd_000011",
+    "variant": "Gray",
+    "price": 2990,
+    "stock": 40
+  },
+  {
+    "id": "sku_000021",
+    "productId": "prd_000011",
+    "variant": "Black",
+    "price": 2990,
+    "stock": 35
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ord_000001",
+    "userId": "usr_000001",
+    "items": [
+      {
+        "orderItemId": "oit_000001",
+        "skuId": "sku_000001",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      }
+    ],
+    "total": 4990,
+    "status": "delivered",
+    "createdAt": "2025-12-22T22:04:53.854Z"
+  },
+  {
+    "id": "ord_000002",
+    "userId": "usr_000001",
+    "items": [
+      {
+        "orderItemId": "oit_000001",
+        "skuId": "sku_000003",
+        "qty": 1,
+        "price": 1290,
+        "subtotal": 1290
+      }
+    ],
+    "total": 1290,
+    "status": "delivered",
+    "createdAt": "2025-12-22T22:46:42.340Z"
+  },
+  {
+    "id": "ord_000003",
+    "userId": "usr_000002",
+    "items": [
+      {
+        "orderItemId": "oit_000001",
+        "skuId": "sku_000001",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      },
+      {
+        "orderItemId": "oit_000002",
+        "skuId": "sku_000002",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      }
+    ],
+    "total": 9980,
+    "status": "delivered",
+    "createdAt": "2025-12-22T23:45:41.490Z"
+  },
+  {
+    "id": "ord_000004",
+    "userId": "usr_000001",
+    "items": [
+      {
+        "orderItemId": "oit_000001",
+        "skuId": "sku_000002",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      },
+      {
+        "orderItemId": "oit_000002",
+        "skuId": "sku_000001",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      }
+    ],
+    "total": 9980,
+    "status": "paid",
+    "createdAt": "2025-12-23T00:39:52.983Z"
+  },
+  {
+    "id": "ord_000005",
+    "userId": "usr_000001",
+    "items": [
+      {
+        "orderItemId": "oit_000001",
+        "skuId": "sku_000001",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      }
+    ],
+    "total": 4990,
+    "status": "paid",
+    "createdAt": "2025-12-23T00:46:39.379Z"
+  },
+  {
+    "id": "ord_000006",
+    "userId": "usr_000001",
+    "items": [
+      {
+        "id": "crt_000001",
+        "userId": "usr_000001",
+        "items": [
+          {
+            "itemId": "cit_000001",
+            "skuId": "sku_000001",
+            "qty": 1,
+            "price": 4990,
+            "subtotal": 4990
+          },
+          {
+            "itemId": "cit_000002",
+            "skuId": "sku_000004",
+            "qty": 1,
+            "price": 89990,
+            "subtotal": 89990
+          }
+        ],
+        "total": 94980
+      }
+    ],
+    "total": 0,
+    "status": "created",
+    "createdAt": "2025-12-23T02:53:14.504Z"
+  },
+  {
+    "id": "ord_000008",
+    "userId": "usr_000003",
+    "status": "created",
+    "items": [
+      {
+        "orderItemId": "oit_000001",
+        "skuId": "sku_000002",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      },
+      {
+        "orderItemId": "oit_000002",
+        "skuId": "sku_000001",
+        "qty": 1,
+        "price": 4990,
+        "subtotal": 4990
+      },
+      {
+        "orderItemId": "oit_000003",
+        "skuId": "sku_000003",
+        "qty": 1,
+        "price": 1290,
+        "subtotal": 1290
+      }
+    ],
+    "total": 11270,
+    "createdAt": "2025-12-23T03:23:15.237Z"
+  }
+]

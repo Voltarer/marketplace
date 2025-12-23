@@ -1,0 +1,29 @@
+[
+  {
+    "id": "shp_000001",
+    "orderId": "ord_000001",
+    "carrier": "mock-delivery",
+    "status": "delivered",
+    "trackingNumber": "TRK-761829588",
+    "createdAt": "2025-12-22T22:19:56.994Z",
+    "updatedAt": "2025-12-22T22:20:07.180Z"
+  },
+  {
+    "id": "shp_000002",
+    "orderId": "ord_000002",
+    "carrier": "mock-delivery",
+    "status": "delivered",
+    "trackingNumber": "TRK-624998650",
+    "createdAt": "2025-12-22T22:46:47.840Z",
+    "updatedAt": "2025-12-22T22:46:47.881Z"
+  },
+  {
+    "id": "shp_000003",
+    "orderId": "ord_000003",
+    "carrier": "mock-delivery",
+    "status": "delivered",
+    "trackingNumber": "TRK-835145227",
+    "createdAt": "2025-12-22T23:45:44.339Z",
+    "updatedAt": "2025-12-22T23:45:44.422Z"
+  }
+]
